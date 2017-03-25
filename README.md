@@ -6,7 +6,8 @@
 
 - [Python code packaging](https://python-packaging.readthedocs.io/en/latest/)
 
-- [Python practices checker](https://www.pylint.org/)
+- [Python practices checker](https://www.pylint.org/) and
+  [Descriptions of Warnings/Errors](http://pylint-messages.wikidot.com/all-codes)
 
 # [Scala](https://www.scala-lang.org/)
 
