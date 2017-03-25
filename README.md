@@ -1,19 +1,22 @@
-# Coding Guides
-
-## Python
+# Python
 
 - [Python Best Practices](https://gist.github.com/sloria/7001839)
 
-### Visualization
+## Visualization
 
-#### Matplotlib
+### [matplotlib](http://matplotlib.org/)
 
-### Machine learning
+## Machine learning
 
-#### scikit-learn
+### [scikit-learn](http://scikit-learn.org/stable/)
 
-## Scala
+# [Scala](https://www.scala-lang.org/)
 
-### Machine Learning
+## Machine Learning
 
-#### Spark
+### [Spark](http://spark.apache.org/)
+
+# Gnuplot
+
+# R
+
