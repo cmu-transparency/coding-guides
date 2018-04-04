@@ -1,6 +1,8 @@
 # Python
 
-- [Python style guide](https://www.python.org/dev/peps/pep-0008/)
+- [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
+
+- [PEP 257 -- Docstring Conventions](https://www.python.org/dev/peps/pep-0257/)
 
 - [Python best practices](https://gist.github.com/sloria/7001839)
 
