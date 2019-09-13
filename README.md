@@ -32,12 +32,10 @@
   - [jupyter over ssh](https://fizzylogic.nl/2017/11/06/edit-jupyter-notebooks-over-ssh/)
   - [Remote Development via VScode Insider and ssh](https://code.visualstudio.com/docs/remote/remote-overview)
 
-## Data science
+## Programming environments
 
 - jupyter
   - [Interactive widgets](https://ipywidgets.readthedocs.io/en/stable/examples/Using%20Interact.html)
-
-## Programming environments
 
 - spyder
 
