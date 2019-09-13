@@ -18,6 +18,8 @@
 
 # Tools
 
+## Command line
+
 - [tmux guide](https://www.hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/)
 
 - [screen guide](https://linuxize.com/post/how-to-use-linux-screen/)
@@ -30,11 +32,21 @@
   - [jupyter over ssh](https://fizzylogic.nl/2017/11/06/edit-jupyter-notebooks-over-ssh/)
   - [Remote Development via VScode Insider and ssh](https://code.visualstudio.com/docs/remote/remote-overview)
 
+## Data science
+
 - jupyter
   - [Interactive widgets](https://ipywidgets.readthedocs.io/en/stable/examples/Using%20Interact.html)
 
+## Programming environments
+
 - spyder
 
+## Virtual environments
+
+- [anaconda](https://www.anaconda.com/)
+
+  - [distributions](https://www.anaconda.com/distribution/)
+  - [guide](https://docs.anaconda.com/anaconda/)
 
 # API Documentation and Code Style Guides
 
